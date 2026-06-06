@@ -10,5 +10,5 @@ Input:<br>
   <li>r, annual rate of interest</li>
     </ul>
 Output<br>
-  <\t>simple interest=p*t*r/100
+  simple interest=p*t*r/100
 <p>
